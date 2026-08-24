@@ -7,10 +7,10 @@
 <p align="center">
 
 ![SQL](https://img.shields.io/badge/Language-SQL-blue?style=for-the-badge)
-![Problems](https://img.shields.io/badge/Problems_Solved-3-success?style=for-the-badge)
+![Problems](https://img.shields.io/badge/Problems_Solved-5-success?style=for-the-badge)
 ![Easy](https://img.shields.io/badge/Easy-1-brightgreen?style=for-the-badge)
-![Medium](https://img.shields.io/badge/Medium-1-yellow?style=for-the-badge)
-![Hard](https://img.shields.io/badge/Hard-1-red?style=for-the-badge)
+![Medium](https://img.shields.io/badge/Medium-2-yellow?style=for-the-badge)
+![Hard](https://img.shields.io/badge/Hard-2-red?style=for-the-badge)
 
 </p>
 
@@ -61,6 +61,8 @@ Maintain clean, structured, and optimized SQL solutions for future learning and 
 | **512** | **Game Play Analysis II** | 🟢 Easy | `ROW_NUMBER()`, Window Partitioning |
 | **534** | **Game Play Analysis III** | 🟡 Medium | Cumulative `SUM()`, Running Totals |
 | **569** | **Median Employee Salary** | 🔴 Hard | Mathematical Offsets, `ROW_NUMBER()`, `COUNT(*) OVER()` |
+| **571** | **Find Median Given Frequency of Numbers** | 🔴 Hard | Cumulative Frequency, Non-Decompression Median, `SUM() OVER()` |
+| **574** | **Winning Candidate** | 🟡 Medium | `COUNT()`, `GROUP BY`, Correlated Max Subquery / `LIMIT 1`|
 
 ---
 
@@ -68,7 +70,7 @@ Maintain clean, structured, and optimized SQL solutions for future learning and 
 
 | 🟢 Easy | 🟡 Medium | 🔴 Hard | 📚 Total |
 |:-------:|:---------:|:-------:|:--------:|
-| **1** | **1** | **1** | **3** |
+| **1** | **2** | **2** | **5** |
 
 ---
 
