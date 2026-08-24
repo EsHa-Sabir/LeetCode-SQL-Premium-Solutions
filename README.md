@@ -1,34 +1,84 @@
-### 🔒 LeetCode SQL Premium Solutions
+# 🔒 LeetCode SQL Premium Solutions
 
-Welcome to my repository! This space is dedicated exclusively to **LeetCode SQL Premium (Locked)** problems. 
+<p align="center">
+  <b>Mastering Advanced SQL Through Premium LeetCode Problems 🚀</b>
+</p>
 
-Since these problems require a LeetCode Premium subscription to access and run test cases, I have documented the comprehensive problem statements, example schemas, and my custom-built, optimized solutions right here. 
+<p align="center">
 
-### 🚀 Repository Goal
+![SQL](https://img.shields.io/badge/Language-SQL-blue?style=for-the-badge)
+![Problems](https://img.shields.io/badge/Problems_Solved-3-success?style=for-the-badge)
+![Easy](https://img.shields.io/badge/Easy-1-brightgreen?style=for-the-badge)
+![Medium](https://img.shields.io/badge/Medium-1-yellow?style=for-the-badge)
+![Hard](https://img.shields.io/badge/Hard-1-red?style=for-the-badge)
 
-The purpose of this repository is to: 
+</p>
 
-* 🧠 **Master Complex SQL Patterns:** Focus heavily on advanced database concepts like Window Functions (DENSE_RANK(), ROW_NUMBER()), Recursive CTEs, and Correlated Subqueries.
-* 🛑 **Overcome Premium Barriers:** Practice and perfect top-tier interview questions asked by FAANG and other leading data-driven companies without needing a paid subscription.
-* 💾 **Keep Track of Progress:** Save clean, production-ready SQL scripts for future reference and technical interview prep.
+---
 
-### 📂 Progress Tracker
+## 📖 About This Repository
 
-Here is the list of premium problems I have successfully solved and documented: 
+Welcome to my repository! 👋
 
-Problem # 
+This repository is dedicated to solving and documenting **LeetCode SQL Premium (Locked) problems**.
 
-Title 
+Since these problems require a LeetCode Premium subscription to access and run test cases, I have documented the **problem concepts, example schemas, SQL approaches, and optimized solutions** for learning and interview preparation.
 
-Difficulty 
+---
 
-Key Concepts Used 
+## 🎯 Repository Goals
 
-****512****
-Game Play Analysis II🟢 EasyROW_NUMBER(), Window Partitioning
-****534****
-Game Play Analysis III🟡 MediumCumulative SUM(), Running Totals
-****569****
-Median Employee Salary🔴 HardMathematical Offsets, ROW_NUMBER(), COUNT(*) OVER
+This repository focuses on:
 
-*“An investment in knowledge always pays the best interest.” Happy Querying! 💻✨*
+### 🧠 Master Complex SQL Patterns
+
+- Window Functions
+- `ROW_NUMBER()`
+- `DENSE_RANK()`
+- `RANK()`
+- Recursive CTEs
+- Correlated Subqueries
+- Aggregate Functions
+- Advanced Joins
+- SQL Functions
+
+### 💡 Practice Interview-Level Problems
+
+Solve challenging SQL problems commonly associated with technical interviews and data-focused roles.
+
+### 📚 Track My Progress
+
+Maintain clean, structured, and optimized SQL solutions for future learning and interview preparation.
+
+---
+
+# 📊 Progress Tracker
+
+> 🚀 **Currently documenting my journey through advanced LeetCode SQL problems.**
+
+| #️⃣ Problem | 📌 Title | 🎯 Difficulty | 🧠 Key Concepts |
+|:----------:|---------|:-------------:|-----------------|
+| **512** | **Game Play Analysis II** | 🟢 Easy | `ROW_NUMBER()`, Window Partitioning |
+| **534** | **Game Play Analysis III** | 🟡 Medium | Cumulative `SUM()`, Running Totals |
+| **569** | **Median Employee Salary** | 🔴 Hard | Mathematical Offsets, `ROW_NUMBER()`, `COUNT(*) OVER()` |
+
+---
+
+## 📈 Progress Statistics
+
+| 🟢 Easy | 🟡 Medium | 🔴 Hard | 📚 Total |
+|:-------:|:---------:|:-------:|:--------:|
+| **1** | **1** | **1** | **3** |
+
+---
+
+## 🧠 SQL Concepts Covered
+
+```text
+✔ Window Functions
+✔ ROW_NUMBER()
+✔ COUNT() OVER()
+✔ Cumulative SUM()
+✔ Running Totals
+✔ Mathematical Offsets
+✔ Window Partitioning
