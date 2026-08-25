@@ -7,9 +7,9 @@
 <p align="center">
 
 ![SQL](https://img.shields.io/badge/Language-SQL-blue?style=for-the-badge)
-![Problems](https://img.shields.io/badge/Problems_Solved-5-success?style=for-the-badge)
+![Problems](https://img.shields.io/badge/Problems_Solved-6-success?style=for-the-badge)
 ![Easy](https://img.shields.io/badge/Easy-1-brightgreen?style=for-the-badge)
-![Medium](https://img.shields.io/badge/Medium-2-yellow?style=for-the-badge)
+![Medium](https://img.shields.io/badge/Medium-3-yellow?style=for-the-badge)
 ![Hard](https://img.shields.io/badge/Hard-2-red?style=for-the-badge)
 
 </p>
@@ -63,6 +63,8 @@ Maintain clean, structured, and optimized SQL solutions for future learning and 
 | **569** | **Median Employee Salary** | 🔴 Hard | Mathematical Offsets, `ROW_NUMBER()`, `COUNT(*) OVER()` |
 | **571** | **Find Median Given Frequency of Numbers** | 🔴 Hard | Cumulative Frequency, Non-Decompression Median, `SUM() OVER()` |
 | **574** | **Winning Candidate** | 🟡 Medium | `COUNT()`, `GROUP BY`, Correlated Max Subquery / `LIMIT 1`|
+| **578** | **Get Highest Answer Rate Question** | 🟡 Medium | `Sum()`,`IF()`, `GROUP BY`,`ORDER BY`, Layered CTEs / `LIMIT 1`|
+
 
 ---
 
@@ -70,7 +72,7 @@ Maintain clean, structured, and optimized SQL solutions for future learning and 
 
 | 🟢 Easy | 🟡 Medium | 🔴 Hard | 📚 Total |
 |:-------:|:---------:|:-------:|:--------:|
-| **1** | **2** | **2** | **5** |
+| **1** | **2** | **3** | **6** |
 
 ---
 
