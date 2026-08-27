@@ -7,8 +7,8 @@
 <p align="center">
 
 ![SQL](https://img.shields.io/badge/Language-SQL-blue?style=for-the-badge)
-![Problems](https://img.shields.io/badge/Problems_Solved-8-success?style=for-the-badge)
-![Easy](https://img.shields.io/badge/Easy-1-brightgreen?style=for-the-badge)
+![Problems](https://img.shields.io/badge/Problems_Solved-9-success?style=for-the-badge)
+![Easy](https://img.shields.io/badge/Easy-2-brightgreen?style=for-the-badge)
 ![Medium](https://img.shields.io/badge/Medium-4-yellow?style=for-the-badge)
 ![Hard](https://img.shields.io/badge/Hard-3-red?style=for-the-badge)
 
@@ -76,6 +76,7 @@ Maintain clean, structured, and optimized SQL solutions for future learning and 
 | **578** | **Get Highest Answer Rate Question** | 🟡 Medium | `Sum()`,`IF()`, `GROUP BY`,`ORDER BY`, Layered CTEs / `LIMIT 1`|
 | **579** | **Find Cumulative Salary of an Employee** | 🔴 Hard | Window Framing (RANGE 2 PRECEDING), `MAX()` CTE Filter, Delayed Evaluation|
 | **580** | **Count Student Number in Departments** | 🟡 Medium | `LEFT JOIN` Gaps Handling, `COUNT(col)` vs `COUNT(*)`, Grouped Aggregations|
+| **597** | **Friend Requests I: Overall Acceptance Rate** | 🟢 Easy |Multi-Table Stream Scans, `COUNT(DISTINCT)`, Zero-Division Rescue (`NULLIF`) |
 
 
 
@@ -85,7 +86,7 @@ Maintain clean, structured, and optimized SQL solutions for future learning and 
 
 | 🟢 Easy | 🟡 Medium | 🔴 Hard | 📚 Total |
 |:-------:|:---------:|:-------:|:--------:|
-| **1** | **4** | **3** | **8** |
+| **2** | **4** | **3** | **9** |
 
 ---
 
@@ -101,5 +102,7 @@ Maintain clean, structured, and optimized SQL solutions for future learning and 
 ✔ Delayed Execution Filters (Calculations before Output Truncation)
 ✔ Row Limiting Strategies & Tie-Breaker Handling
 ✔ Left Join Integrity (Preserving empty records and forcing 0 counts)
+✔ Reserved Keywords Isolation (Safe Namespace Reference via Backticks)
+✔ Zero-Division Arithmetic Safeguards (NULLIF Cascade & Stream Lookups)
 
 
