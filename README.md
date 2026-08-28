@@ -7,8 +7,8 @@
 <p align="center">
 
 ![SQL](https://img.shields.io/badge/Language-SQL-blue?style=for-the-badge)
-![Problems](https://img.shields.io/badge/Problems_Solved-9-success?style=for-the-badge)
-![Easy](https://img.shields.io/badge/Easy-2-brightgreen?style=for-the-badge)
+![Problems](https://img.shields.io/badge/Problems_Solved-10-success?style=for-the-badge)
+![Easy](https://img.shields.io/badge/Easy-3-brightgreen?style=for-the-badge)
 ![Medium](https://img.shields.io/badge/Medium-4-yellow?style=for-the-badge)
 ![Hard](https://img.shields.io/badge/Hard-3-red?style=for-the-badge)
 
@@ -77,6 +77,7 @@ Maintain clean, structured, and optimized SQL solutions for future learning and 
 | **579** | **Find Cumulative Salary of an Employee** | 🔴 Hard | Window Framing (RANGE 2 PRECEDING), `MAX()` CTE Filter, Delayed Evaluation|
 | **580** | **Count Student Number in Departments** | 🟡 Medium | `LEFT JOIN` Gaps Handling, `COUNT(col)` vs `COUNT(*)`, Grouped Aggregations|
 | **597** | **Friend Requests I: Overall Acceptance Rate** | 🟢 Easy |Multi-Table Stream Scans, `COUNT(DISTINCT)`, Zero-Division Rescue (`NULLIF`) |
+| **603** | **Consecutive Available Seats** | 🟢 Easy |Bidirectional Window Scanning, `LEAD()`, `LAG()`, Sequence Continuity Parsing |
 
 
 
@@ -86,7 +87,7 @@ Maintain clean, structured, and optimized SQL solutions for future learning and 
 
 | 🟢 Easy | 🟡 Medium | 🔴 Hard | 📚 Total |
 |:-------:|:---------:|:-------:|:--------:|
-| **2** | **4** | **3** | **9** |
+| **3** | **4** | **3** | **10** |
 
 ---
 
