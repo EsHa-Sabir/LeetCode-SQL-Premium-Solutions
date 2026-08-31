@@ -7,9 +7,9 @@
 <p align="center">
 
 ![SQL](https://img.shields.io/badge/Language-SQL-blue?style=for-the-badge)
-![Problems](https://img.shields.io/badge/Problems_Solved-10-success?style=for-the-badge)
-![Easy](https://img.shields.io/badge/Easy-3-brightgreen?style=for-the-badge)
-![Medium](https://img.shields.io/badge/Medium-4-yellow?style=for-the-badge)
+![Problems](https://img.shields.io/badge/Problems_Solved-13-success?style=for-the-badge)
+![Easy](https://img.shields.io/badge/Easy-4-brightgreen?style=for-the-badge)
+![Medium](https://img.shields.io/badge/Medium-6-yellow?style=for-the-badge)
 ![Hard](https://img.shields.io/badge/Hard-3-red?style=for-the-badge)
 
 </p>
@@ -78,6 +78,9 @@ Maintain clean, structured, and optimized SQL solutions for future learning and 
 | **580** | **Count Student Number in Departments** | 🟡 Medium | `LEFT JOIN` Gaps Handling, `COUNT(col)` vs `COUNT(*)`, Grouped Aggregations|
 | **597** | **Friend Requests I: Overall Acceptance Rate** | 🟢 Easy |Multi-Table Stream Scans, `COUNT(DISTINCT)`, Zero-Division Rescue (`NULLIF`) |
 | **603** | **Consecutive Available Seats** | 🟢 Easy |Bidirectional Window Scanning, `LEAD()`, `LAG()`, Sequence Continuity Parsing |
+| **612** | **Shortest Distance in a Plane** | 🟡 Medium |Spatial Cross-Join Evaluation, Multi-Variable Boolean Logic (OR), Geometric Aggregates (SQRT/POW) |
+| **613** | **Shortest Distance in a Line** | 🟢 Easy |Vector Distance Cross-Evaluation, Absolute Difference Maps (ABS), Functional Inequalities (<>) |
+| **614** | **Second Degree Follower** | 🟡 Medium |Self-Referencing Multi-Level Network Filter, Subquery IN Constraints, Grouped Frequency Aggregations |
 
 
 
@@ -87,7 +90,7 @@ Maintain clean, structured, and optimized SQL solutions for future learning and 
 
 | 🟢 Easy | 🟡 Medium | 🔴 Hard | 📚 Total |
 |:-------:|:---------:|:-------:|:--------:|
-| **3** | **4** | **3** | **10** |
+| **4** | **6** | **3** | **13** |
 
 ---
 
