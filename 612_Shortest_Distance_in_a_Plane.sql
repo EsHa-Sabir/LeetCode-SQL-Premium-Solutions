@@ -17,7 +17,7 @@ Table: Point2D
 * (x, y) is the primary key column (combination of columns with unique values) for this table.
 * Each row of this table indicates the position of a point on the X-Y plane.
 
-1. 🎯 Sawaal Ki Demand & Rules (The Core Requirements)
+1.Demand & Rules (The Core Requirements)
 
 Write a solution to report the shortest distance between any two distinct points
 from the Point2D table. 
