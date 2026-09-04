@@ -7,10 +7,10 @@
 <p align="center">
 
 ![SQL](https://img.shields.io/badge/Language-SQL-blue?style=for-the-badge)
-![Problems](https://img.shields.io/badge/Problems_Solved-13-success?style=for-the-badge)
+![Problems](https://img.shields.io/badge/Problems_Solved-15-success?style=for-the-badge)
 ![Easy](https://img.shields.io/badge/Easy-4-brightgreen?style=for-the-badge)
 ![Medium](https://img.shields.io/badge/Medium-6-yellow?style=for-the-badge)
-![Hard](https://img.shields.io/badge/Hard-3-red?style=for-the-badge)
+![Hard](https://img.shields.io/badge/Hard-5-red?style=for-the-badge)
 
 </p>
 
@@ -81,6 +81,8 @@ Maintain clean, structured, and optimized SQL solutions for future learning and 
 | **612** | **Shortest Distance in a Plane** | 🟡 Medium |Spatial Cross-Join Evaluation, Multi-Variable Boolean Logic (OR), Geometric Aggregates (SQRT/POW) |
 | **613** | **Shortest Distance in a Line** | 🟢 Easy |Vector Distance Cross-Evaluation, Absolute Difference Maps (ABS), Functional Inequalities (<>) |
 | **614** | **Second Degree Follower** | 🟡 Medium |Self-Referencing Multi-Level Network Filter, Subquery IN Constraints, Grouped Frequency Aggregations |
+| **615** | **Average Salary: Departments VS Company** | 🔴 Hard | Dual-Window Partitioning, Asymmetric Scale Baseline Comparison, Spatial Row Deduplication (`DISTINCT`) |
+| **618** | **Students Report By Geography** | 🔴 Hard |Vertical-to-Horizontal Pivot Restructuring, Custom Row Index Alignment, String Bucket Compression (`MAX` + `GROUP BY`) |
 
 
 
@@ -90,7 +92,7 @@ Maintain clean, structured, and optimized SQL solutions for future learning and 
 
 | 🟢 Easy | 🟡 Medium | 🔴 Hard | 📚 Total |
 |:-------:|:---------:|:-------:|:--------:|
-| **4** | **6** | **3** | **13** |
+| **4** | **6** | **5** | **15** |
 
 ---
 
