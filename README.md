@@ -7,8 +7,8 @@
 <p align="center">
 
 ![SQL](https://img.shields.io/badge/Language-SQL-blue?style=for-the-badge)
-![Problems](https://img.shields.io/badge/Problems_Solved-15-success?style=for-the-badge)
-![Easy](https://img.shields.io/badge/Easy-4-brightgreen?style=for-the-badge)
+![Problems](https://img.shields.io/badge/Problems_Solved-16-success?style=for-the-badge)
+![Easy](https://img.shields.io/badge/Easy-5-brightgreen?style=for-the-badge)
 ![Medium](https://img.shields.io/badge/Medium-6-yellow?style=for-the-badge)
 ![Hard](https://img.shields.io/badge/Hard-5-red?style=for-the-badge)
 
@@ -83,6 +83,7 @@ Maintain clean, structured, and optimized SQL solutions for future learning and 
 | **614** | **Second Degree Follower** | 🟡 Medium |Self-Referencing Multi-Level Network Filter, Subquery IN Constraints, Grouped Frequency Aggregations |
 | **615** | **Average Salary: Departments VS Company** | 🔴 Hard | Dual-Window Partitioning, Asymmetric Scale Baseline Comparison, Spatial Row Deduplication (`DISTINCT`) |
 | **618** | **Students Report By Geography** | 🔴 Hard |Vertical-to-Horizontal Pivot Restructuring, Custom Row Index Alignment, String Bucket Compression (`MAX` + `GROUP BY`) |
+| **1069** | **Product Sales Analysis II** | 🟢 Easy  |High-Performance Transaction Processing, Omission of Redundant Table Joins, Direct Key Grouped Sums (`SUM`) |
 
 
 
@@ -92,7 +93,7 @@ Maintain clean, structured, and optimized SQL solutions for future learning and 
 
 | 🟢 Easy | 🟡 Medium | 🔴 Hard | 📚 Total |
 |:-------:|:---------:|:-------:|:--------:|
-| **4** | **6** | **5** | **15** |
+| **5** | **6** | **5** | **16** |
 
 ---
 
