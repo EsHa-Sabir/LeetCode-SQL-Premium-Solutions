@@ -7,14 +7,12 @@
 <p align="center">
 
 ![SQL](https://img.shields.io/badge/Language-SQL-blue?style=for-the-badge)
-![Problems](https://img.shields.io/badge/Problems_Solved-16-success?style=for-the-badge)
-![Easy](https://img.shields.io/badge/Easy-5-brightgreen?style=for-the-badge)
-![Medium](https://img.shields.io/badge/Medium-6-yellow?style=for-the-badge)
+![Problems](https://img.shields.io/badge/Problems_Solved-20-success?style=for-the-badge)
+![Easy](https://img.shields.io/badge/Easy-8-brightgreen?style=for-the-badge)
+![Medium](https://img.shields.io/badge/Medium-7-yellow?style=for-the-badge)
 ![Hard](https://img.shields.io/badge/Hard-5-red?style=for-the-badge)
 
 </p>
-
----
 
 ## 📖 About This Repository
 
@@ -84,8 +82,10 @@ Maintain clean, structured, and optimized SQL solutions for future learning and 
 | **615** | **Average Salary: Departments VS Company** | 🔴 Hard | Dual-Window Partitioning, Asymmetric Scale Baseline Comparison, Spatial Row Deduplication (`DISTINCT`) |
 | **618** | **Students Report By Geography** | 🔴 Hard |Vertical-to-Horizontal Pivot Restructuring, Custom Row Index Alignment, String Bucket Compression (`MAX` + `GROUP BY`) |
 | **1069** | **Product Sales Analysis II** | 🟢 Easy  |High-Performance Transaction Processing, Omission of Redundant Table Joins, Direct Key Grouped Sums (`SUM`) |
-
-
+| **1076** | **Project Employees II** | 🟢 Easy  | Subqueries vs Window Functions, Multi-Level Tie-Breakers, Grouped Multi-Pass Aggregations |
+| **1077** | **Project Employees III** | 🟡 Medium | `RANK() OVER(PARTITION BY...)`, Intra-Group Ranking, Dense Multi-Variable Joins |
+| **1082** | **Sales Analysis I** | 🟢 Easy  | Non-Partitioned Global Ordering, `SUM()` Stream Sorting, High-Performance Tie Preservation |
+| **1083** | **Sales Analysis II** | 🟢 Easy  | `NOT IN` Subqueries, Relational Exclusion Filters, Multi-Table Value Streaming |
 
 ---
 
@@ -93,7 +93,7 @@ Maintain clean, structured, and optimized SQL solutions for future learning and 
 
 | 🟢 Easy | 🟡 Medium | 🔴 Hard | 📚 Total |
 |:-------:|:---------:|:-------:|:--------:|
-| **5** | **6** | **5** | **16** |
+| **8** | **7** | **5** | **20** |
 
 ---
 
@@ -111,5 +111,4 @@ Maintain clean, structured, and optimized SQL solutions for future learning and 
 ✔ Left Join Integrity (Preserving empty records and forcing 0 counts)
 ✔ Reserved Keywords Isolation (Safe Namespace Reference via Backticks)
 ✔ Zero-Division Arithmetic Safeguards (NULLIF Cascade & Stream Lookups)
-
-
+```
