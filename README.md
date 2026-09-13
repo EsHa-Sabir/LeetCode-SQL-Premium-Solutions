@@ -7,9 +7,9 @@
 <p align="center">
 
 ![SQL](https://img.shields.io/badge/Language-SQL-blue?style=for-the-badge)
-![Problems](https://img.shields.io/badge/Problems_Solved-21-success?style=for-the-badge)
-![Easy](https://img.shields.io/badge/Easy-8-brightgreen?style=for-the-badge)
-![Medium](https://img.shields.io/badge/Medium-7-yellow?style=for-the-badge)
+![Problems](https://img.shields.io/badge/Problems_Solved-26-success?style=for-the-badge)
+![Easy](https://img.shields.io/badge/Easy-9-brightgreen?style=for-the-badge)
+![Medium](https://img.shields.io/badge/Medium-11-yellow?style=for-the-badge)
 ![Hard](https://img.shields.io/badge/Hard-6-red?style=for-the-badge)
 
 </p>
@@ -87,14 +87,19 @@ Maintain clean, structured, and optimized SQL solutions for future learning and 
 | **1082** | **Sales Analysis I** | 🟢 Easy  | Non-Partitioned Global Ordering, `SUM()` Stream Sorting, High-Performance Tie Preservation |
 | **1083** | **Sales Analysis II** | 🟢 Easy  | `NOT IN` Subqueries, Relational Exclusion Filters, Multi-Table Value Streaming |
 | **1097** | **Game Play Analysis V** | 🔴 Hard  | Layered CTEs, Consecutive Day Retention, `LEFT JOIN` NULL Filtration |
+| **1098** | **Unpopular Books** | 🟡 Medium | Temporal Filtering Indexing, Aggregate Scale Handling (`IFNULL`), `LEFT JOIN` Gap Scans |
+| **1107** | **New Users Daily Count** | 🟡 Medium | Date Window Subtractions (`BETWEEN`), Initial User Conversions, Aggregated Streams |
+| **1112** | **Highest Grade For Each Student** | 🟡 Medium | `ROW_NUMBER()`, Partition Rules, Multi-Variable Tie-Breakers |
+| **1113** | **Reported Posts** | 🟢 Easy  | High-Performance Filtering, `COUNT(DISTINCT)`, Stream Aggregations |
+| **1126** | **Active Businesses** | 🟡 Medium | Window Functions Partitioning (`AVG OVER`), Outlier Masking, Grouped Conditional Evaluation |
 
 ---
 
-## 👑 Progress Statistics
+## 📈 Progress Statistics
 
 | 🟢 Easy | 🟡 Medium | 🔴 Hard | 📚 Total |
 |:-------:|:---------:|:-------:|:--------:|
-| **8** | **7** | **6** | **21** |
+| **9** | **11** | **6** | **26** |
 
 ---
 
