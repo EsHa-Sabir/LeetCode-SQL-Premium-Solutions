@@ -7,12 +7,13 @@
 <p align="center">
 
 ![SQL](https://img.shields.io/badge/Language-SQL-blue?style=for-the-badge)
-![Problems](https://img.shields.io/badge/Problems_Solved-26-success?style=for-the-badge)
-![Easy](https://img.shields.io/badge/Easy-9-brightgreen?style=for-the-badge)
-![Medium](https://img.shields.io/badge/Medium-11-yellow?style=for-the-badge)
-![Hard](https://img.shields.io/badge/Hard-6-red?style=for-the-badge)
+![Problems](https://img.shields.io/badge/Problems_Solved-30-success?style=for-the-badge)
+![Easy](https://img.shields.io/badge/Easy-10-brightgreen?style=for-the-badge)
+![Medium](https://img.shields.io/badge/Medium-13-yellow?style=for-the-badge)
+![Hard](https://img.shields.io/badge/Hard-7-red?style=for-the-badge)
 
 </p>
+
 
 ## 📖 About This Repository
 
@@ -92,14 +93,18 @@ Maintain clean, structured, and optimized SQL solutions for future learning and 
 | **1112** | **Highest Grade For Each Student** | 🟡 Medium | `ROW_NUMBER()`, Partition Rules, Multi-Variable Tie-Breakers |
 | **1113** | **Reported Posts** | 🟢 Easy  | High-Performance Filtering, `COUNT(DISTINCT)`, Stream Aggregations |
 | **1126** | **Active Businesses** | 🟡 Medium | Window Functions Partitioning (`AVG OVER`), Outlier Masking, Grouped Conditional Evaluation |
+| **1127** | **User Purchase Platform** | 🔴 Hard  | Master Layout Simulation (`CROSS JOIN`), Distinct Platform Maps, Outer Join Leak Control |
+| **1132** | **Reported Posts II** | 🟡 Medium | Layered CTEs, Distinct Atomic Ratio Metrics, Outer Left Join Constraint Safety |
+| **1142** | **User Activity for the Past 30 Days II** | 🟢 Easy  | Direct Arithmetic Scaling, Stream Time Windows (`BETWEEN`), Null Trapping Controls |
+| **1149** | **Article Views II** | 🟡 Medium | Structural Row Deduplication (`DISTINCT`), Intra-Day Grouping, Sorting Aggregations |
 
 ---
 
-## 📈 Progress Statistics
+## 👑 Progress Statistics
 
 | 🟢 Easy | 🟡 Medium | 🔴 Hard | 📚 Total |
 |:-------:|:---------:|:-------:|:--------:|
-| **9** | **11** | **6** | **26** |
+| **10** | **13** | **7** | **30** |
 
 ---
 
