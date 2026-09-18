@@ -1,4 +1,4 @@
-### /*
+/*
 
 ### LeetCode 1069: Product Sales Analysis II (🔒 Premium / Easy)
 
