@@ -7,9 +7,9 @@
 <p align="center">
 
 ![SQL](https://img.shields.io/badge/Language-SQL-blue?style=for-the-badge)
-![Problems](https://img.shields.io/badge/Problems_Solved-30-success?style=for-the-badge)
+![Problems](https://img.shields.io/badge/Problems_Solved-31-success?style=for-the-badge)
 ![Easy](https://img.shields.io/badge/Easy-10-brightgreen?style=for-the-badge)
-![Medium](https://img.shields.io/badge/Medium-13-yellow?style=for-the-badge)
+![Medium](https://img.shields.io/badge/Medium-14-yellow?style=for-the-badge)
 ![Hard](https://img.shields.io/badge/Hard-7-red?style=for-the-badge)
 
 </p>
@@ -97,6 +97,7 @@ Maintain clean, structured, and optimized SQL solutions for future learning and 
 | **1132** | **Reported Posts II** | 🟡 Medium | Layered CTEs, Distinct Atomic Ratio Metrics, Outer Left Join Constraint Safety |
 | **1142** | **User Activity for the Past 30 Days II** | 🟢 Easy  | Direct Arithmetic Scaling, Stream Time Windows (`BETWEEN`), Null Trapping Controls |
 | **1149** | **Article Views II** | 🟡 Medium | Structural Row Deduplication (`DISTINCT`), Intra-Day Grouping, Sorting Aggregations |
+| **1159** | **Market Analysis II** | 🟡 Medium | `ROW_NUMBER()`, `LEFT JOIN` Gap Handling, Conditional Flag Evaluation (`CASE WHEN`) |
 
 ---
 
@@ -104,7 +105,7 @@ Maintain clean, structured, and optimized SQL solutions for future learning and 
 
 | 🟢 Easy | 🟡 Medium | 🔴 Hard | 📚 Total |
 |:-------:|:---------:|:-------:|:--------:|
-| **10** | **13** | **7** | **30** |
+| **10** | **14** | **7** | **31** |
 
 ---
 
