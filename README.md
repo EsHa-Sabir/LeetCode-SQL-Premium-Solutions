@@ -100,7 +100,7 @@ Maintain clean, structured, and optimized SQL solutions for future learning and 
 | **1159** | **Market Analysis II** | 🟡 Medium | `ROW_NUMBER()`, `LEFT JOIN` Gap Handling, Conditional Flag Evaluation (`CASE WHEN`) |
 | **1173** | **Immediate Food Delivery I** | 🟢 Easy  | Conditional Vector Masking (`AVG` + `CASE`), Integer Division Safeguards |
 | **1194** | **Tournament Winners** | 🔴 Hard  | Multi-Stream Consolidation (`UNION ALL`), Left Join Leak Control, Two-Tiered Tie Breaker (`ROW_NUMBER`) |
-| **1205** | **Monthly Transactions II** | 🟡 Medium | Chronological Shifting Analysis, Cross-Engine Normalization (`UNION`), Multi-Pass Aggregations |
+| **1205** | **Monthly Transactions II** | 🟡 Medium | Chronological Shifting Analysis, Cross-Engine Normalization (`UNION ALL`), Multi-Pass Aggregations |
 
 ---
 
